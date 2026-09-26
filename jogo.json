@@ -1,0 +1,55 @@
+{
+  "id": "chess",
+  "slug": "xadrez",
+  "versaoDoContrato": 1,
+  "nome": {
+    "pt-BR": "Xadrez",
+    "en-US": "Chess",
+    "es-ES": "Ajedrez",
+    "fr-FR": "Échecs",
+    "de-DE": "Schach",
+    "ja-JP": "チェス",
+    "zh-CN": "国际象棋",
+    "hi-IN": "शतरंज",
+    "ru-RU": "Шахматы",
+    "ar-AR": "شطرنج"
+  },
+  "descricao": {
+    "pt-BR": "Xadrez completo, jogue online por QR/código ou local no mesmo aparelho.",
+    "en-US": "Full chess, play online by QR/code or locally on one device.",
+    "es-ES": "Ajedrez completo, juega online por QR/código o local en el mismo dispositivo.",
+    "fr-FR": "Échecs complets, jouez en ligne par QR/code ou en local sur le même appareil.",
+    "de-DE": "Vollständiges Schach, online per QR/Code oder lokal auf einem Gerät spielen.",
+    "ja-JP": "本格チェス, QR/コードでオンライン、または同じ端末でローカル対戦。",
+    "zh-CN": "完整国际象棋 —— 通过二维码/房间码联机或在同一设备本地对战。",
+    "hi-IN": "पूरा शतरंज, QR/कोड से ऑनलाइन खेलें या एक ही डिवाइस पर लोकल।",
+    "ru-RU": "Полноценные шахматы, играйте онлайн по QR/коду или локально на одном устройстве.",
+    "ar-AR": "شطرنج كامل, العب أونلاين عبر QR/رمز أو محليًا على نفس الجهاز."
+  },
+  "seo": {
+    "pt-BR": {
+      "resumo": "Xadrez online grátis no navegador: jogo completo, contra o computador, com um amigo pelo mesmo aparelho ou por código.",
+      "sobre": "Xadrez com as regras completas — roque, en passant, promoção, afogamento e repetição. Dá para jogar sozinho, dividir o mesmo aparelho, ou abrir uma sala e mandar o código para alguém.",
+      "comoJogar": "Clique na peça e depois na casa. As jogadas legais acendem no tabuleiro, inclusive as que só existem em posição específica."
+    },
+    "en-US": {
+      "resumo": "Free online chess in your browser: full rules, against the computer, on one device with a friend, or by room code.",
+      "sobre": "Chess with the complete rule set — castling, en passant, promotion, stalemate and repetition. Play solo, share one device, or open a room and send someone the code.",
+      "comoJogar": "Click the piece, then the square. Legal moves light up on the board, including the ones that only exist in a specific position."
+    }
+  },
+  "etiquetas": ["Strategy", "Board", "Multiplayer"],
+  "capa": "public/capa.jpg",
+  "icone": "public/icone.svg",
+  "brilho": "rgba(148, 163, 184, 0.5)",
+  "janela": {
+    "largura": 520,
+    "altura": 640,
+    "minLargura": 340,
+    "minAltura": 480
+  },
+  "aceitaConvite": true,
+  "entraNoPodio": false,
+  "recorde": null,
+  "capacidades": ["sala"]
+}
